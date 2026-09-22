@@ -9,4 +9,5 @@ Previously:
 interned @ Uber in Sunnyvale, CA
 
 [LinkedIn](https://www.linkedin.com/in/sjjurado/) · [Email](mailto:sjurado@ufl.edu)
+
 ![visitors](https://hits.sh/github.com/Pumpurri/Pumpurri.svg?label=visitors)
