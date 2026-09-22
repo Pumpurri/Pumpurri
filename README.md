@@ -1,7 +1,11 @@
 # Sebastian Jurado
 
-Hi! I build systems, simulations, and other cool stuff.
+Hi I like exploring by building whatever comes to mind.
 
-Previously: SWE intern @ Uber · CS at the University of Florida
+Currently:
+studying CS @ The University of Florida
 
-[LinkedIn](https://www.linkedin.com/in/sjjurado/) · [TraceForge](https://github.com/Pumpurri/TraceForge) · [PrivateIV](https://github.com/Pumpurri/PrivateIV)
+Previously:
+interned @ Uber in Sunnyvale, CA
+
+[LinkedIn](https://www.linkedin.com/in/sjjurado/) · [Email](mailto:sjurado@ufl.edu)
