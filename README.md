@@ -1,5 +1,7 @@
 # Sebastian Jurado
 
+I like building whatever comes to mind. Check out some of my work below 
+
 Currently:
 
 - studying CS @ University of Florida
