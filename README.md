@@ -6,6 +6,10 @@ Currently:
 
 - studying CS @ University of Florida
 
+Next:
+
+- incoming intern @ Ramp in NYC, NY
+
 Previously:
 
 - interned @ Uber in Sunnyvale, CA
