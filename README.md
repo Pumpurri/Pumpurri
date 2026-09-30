@@ -8,7 +8,7 @@ Currently:
 
 Next:
 
-- incoming intern @ Ramp in NYC, NY
+- incoming intern @ Figma in NYC, NY
 
 Previously:
 
